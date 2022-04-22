@@ -1,0 +1,7 @@
+AVR is a family of microcontrollers developed by Atmel beginning in 1996. These are modified Harvard architecture 8-bit RISC single-chip microcontrollers. AVR was one of the first microcontroller families to use on-chip flash memory for program storage, AVR microcontrollers find many applications as embedded systems; they are also used in the Arduino line of open source board desi
+
+The ATmega328 is a single-chip microcontroller created by Atmel in the megaAVR family and commonly used in many projects and autonomous systems where a simple, low-powered, low-cost micro-controller is needed.
+
+To program ATmega328 using Arduino boards, bootloader needs to be uploaded to the
+
+ATmega328 microprocessor. This  presents detailed information about the loading bootloader to the Atmega328, programming Atmega328 using external built circuit and reading Accelerometer. PIR motion sensor and Ultrasonic sensors by using Atmega328.
