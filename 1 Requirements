@@ -1,1 +1,31 @@
-
+Semiconductors
+IC1 – 7805, 5V regulator
+IC2 – ATmega328 microcontroller
+IC3 – LM1117-33, 3.3 voltage regulator
+IC4 – HT12E, 2 12 series encoder
+IC5 – HT12D, 2 12 series decoder
+IC6 – L293D, dual H-bridge motor driver
+LED1 & 4 – 5mm LED
+Resistors (all 1/4-watt, ±5% carbon):
+R1 – 1-mega-ohm
+R2 – 10-kilo-ohm
+R3 – 750-kilo-ohm
+R4-R7 – 220-ohm
+R8 – 47-kilo-ohm
+Capacitors:
+C1, C2 – 22pF ceramic disk
+C3 – 0.1μF ceramic disk
+C4 – 0.33μF ceramic disk
+C5 – 10μF, 16V electrolytic
+Miscellaneous:
+CON1, CON3 – 2-pin connector
+CON2 – 6-pin connector
+X TAL 1 – 16MHz crystal
+TX1 – 433MHz transmitter module
+RX1 – 433MHz receiver module
+M1, M2 – DC-geared motor, 100rpm
+S1, S2 – On/off switch
+Batt.1 – 9V PP3 battery
+Batt.2 – 4.5V, 1.5Ah lead-acid battery
+ANT.1, ANT.2 – 17cm long single-strand wire antenna
+– ADXL335 3-axis accelerometer
